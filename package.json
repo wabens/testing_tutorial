@@ -11,7 +11,8 @@
     "flow-bin": "^0.102.0-rc",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "react-tap-event-plugin": "^2.0.1"
+    "react-tap-event-plugin": "^2.0.1",
+    "react-test-renderer": "^16.8.6"
   },
   "devDependencies": {
     "react-scripts": "0.9.5"
